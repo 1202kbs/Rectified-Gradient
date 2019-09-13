@@ -2,6 +2,9 @@
 
 Experiment codes and additional samples for [*Why are Saliency Maps Noisy? Cause of and Solution to Noisy Saliency Maps*](https://arxiv.org/abs/1902.04893).
 
+
+**The work is presented at [2019 ICCV Workshop on VXAI](http://xai.unist.ac.kr/workshop/2019/).**
+
 ![alt tag](https://github.com/1202kbs/Rectified-Gradient/blob/master/assets/comparison.png)
 
 ## Random Sample Links
